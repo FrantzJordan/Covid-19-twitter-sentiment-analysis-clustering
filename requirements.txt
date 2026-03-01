@@ -1,0 +1,17 @@
+# external requirements
+pytest
+
+# backwards compatibility
+pathlib2
+
+# project requirements
+
+matplotlib
+notebook
+numpy
+scikit-learn
+scipy
+pandas
+tqdm
+seaborn
+argparse
